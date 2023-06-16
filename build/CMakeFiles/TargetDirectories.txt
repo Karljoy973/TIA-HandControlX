@@ -1,0 +1,6 @@
+C:/Users/Karlj/Cours/Cours s8/traitement d'images/projet/TIA-HandControlX/build/CMakeFiles/TIA-HANDCONTROLX.dir
+C:/Users/Karlj/Cours/Cours s8/traitement d'images/projet/TIA-HandControlX/build/CMakeFiles/package.dir
+C:/Users/Karlj/Cours/Cours s8/traitement d'images/projet/TIA-HandControlX/build/CMakeFiles/package_source.dir
+C:/Users/Karlj/Cours/Cours s8/traitement d'images/projet/TIA-HandControlX/build/CMakeFiles/test.dir
+C:/Users/Karlj/Cours/Cours s8/traitement d'images/projet/TIA-HandControlX/build/CMakeFiles/edit_cache.dir
+C:/Users/Karlj/Cours/Cours s8/traitement d'images/projet/TIA-HandControlX/build/CMakeFiles/rebuild_cache.dir

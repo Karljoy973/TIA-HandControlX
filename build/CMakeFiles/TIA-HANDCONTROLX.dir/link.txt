@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\TIA-HANDCONTROLX.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\TIA-HANDCONTROLX.dir/objects.a @CMakeFiles\TIA-HANDCONTROLX.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\TIA-HANDCONTROLX.dir/objects.a -Wl,--no-whole-archive -o TIA-HANDCONTROLX.exe -Wl,--out-implib,libTIA-HANDCONTROLX.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TIA-HANDCONTROLX.dir\linkLibs.rsp

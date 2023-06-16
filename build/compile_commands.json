@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Karlj/Cours/Cours s8/traitement d'images/projet/TIA-HandControlX/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/TIA-HANDCONTROLX.dir/includes_C.rsp -g -o CMakeFiles\\TIA-HANDCONTROLX.dir\\src\\main.c.obj -c \"C:\\Users\\Karlj\\Cours\\Cours s8\\traitement d'images\\projet\\TIA-HandControlX\\src\\main.c\"",
+  "file": "C:/Users/Karlj/Cours/Cours s8/traitement d'images/projet/TIA-HandControlX/src/main.c",
+  "output": "CMakeFiles/TIA-HANDCONTROLX.dir/src/main.c.obj"
+}
+]
